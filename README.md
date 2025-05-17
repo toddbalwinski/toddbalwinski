@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Todd Balwinski
+
+I am a rising third year engineering student at the University of Virginia where I major in Computer Science with minors in Business and Data Science. I enjoy improving processes and workflows using technology and build my own to implement when I can. Please feel free to reach out if you would like to connect!
+
+What I am currently working on:
+
+While functional I am still working on my Golf Pool that I run. I have future features for both the entry form and the scoring sheet and also a long term vision to create an entire site with history and all of the scoring logic coded in instead of in sheets.
+
+I also have plans to build a website for Trigon Engineering Society to give the society an internet presence as well as to help streamline the recruitment process.
 
 <!--
 **toddbalwinski/toddbalwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
