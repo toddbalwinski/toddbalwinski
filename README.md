@@ -26,9 +26,6 @@ These are some project ideas and areas I plan to explore soon:
 - **Engineering Society Recruitment Website**  
   A website to host recruitment information and event attendance forms including a database to store candidate member information.
 
-- **Personal Portfolio Site**  
-  A lightweight React-based site to showcase projects, experiences, and skills—hosted for free and mobile-responsive.
-
 - **Backtesting a Trading Algorithm**  
   A Python-based system to test quantitative trading strategies using historical financial data. Will explore tools like `pandas`, `yfinance`, and `backtrader`.
 
