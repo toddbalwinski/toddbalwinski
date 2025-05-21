@@ -19,6 +19,21 @@ Here are some of the projects I’m actively working on:
 
 ---
 
+## Commpleted Projects 
+
+Here are some of the projects I’m actively working on:
+
+- **[Twitter to Bluesky Bot](https://github.com/toddbalwinski/TwitterToBlueskyBot )**
+  A bot that reposts everthing a user posts on X (Twitter) onto Bluesky. Integrates X API v2, Bluesky's AT Protocol, and is deployed using GitHub Actions.
+
+- **[Vehicle Cataloging and Lending App](https://github.com/toddbalwinski/VehicleCatalogingAndLendingApp)**
+  A group project completed for CS 3240: Software Engineering at UVA. I have copied the project to my repository to showcase.
+
+- **[Course Review App](https://github.com/toddbalwinski/CourseReviewApp)**
+  A group project completed for CS 3140: Software Development Essentials at UVA. I have copied the project to my repository to showcase.
+
+---
+
 ## What's Next
 
 These are some project ideas and areas I plan to explore soon:
