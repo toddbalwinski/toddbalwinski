@@ -15,7 +15,7 @@ Here are some of the projects I’m actively working on:
   I have plans to build out the reciept functionality and also collect phone numbers.
 
 - **[Personal Site](https://github.com/toddbalwinski/PersonalWebsite)**
-  A lightweight site to showcase projects, experiences, and skills—hosted. Built using React and Vercel.
+  A lightweight site to showcase projects, experiences, and skills. Built using React and Vercel.
 
 ---
 
