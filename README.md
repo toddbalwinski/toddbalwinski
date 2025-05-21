@@ -19,7 +19,7 @@ Here are some of the projects I’m actively working on:
 
 ---
 
-## Commpleted Projects 
+## Completed Projects 
 
 Here are some of the projects I’m actively working on:
 
