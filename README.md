@@ -33,7 +33,7 @@ These are some project ideas and areas I plan to explore soon:
 
 ## Connect With Me
 
-- 📧 [@tbalwinski@gmail.com]
+- 📧 tbalwinski@gmail.com
 - 💼 [LinkedIn Profile](linkedin.com/in/todd-balwinski)
 - 🌐 [Personal Website](toddbalwinski.vercel.app)
 
