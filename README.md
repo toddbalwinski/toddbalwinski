@@ -1,24 +1,40 @@
-## Hi, I'm Todd Balwinski
+# Hi, I'm Todd Balwinski
 
-I am a rising third year engineering student at the University of Virginia where I major in Computer Science with minors in Business and Data Science. I enjoy improving processes and workflows using technology and build my own to implement when I can. Please feel free to reach out if you would like to connect!
+I am a rising third year engineering student at the University of Virginia where I major in Computer Science with minors in Business and Data Science. I enjoy improving processes and workflows using technology and build my own to implement when I can. 
 
-What I am currently working on:
+Please feel free to reach out if you would like to connect!
 
-While functional I am still working on my Golf Pool that I run. I have future features for both the entry form and the scoring sheet and also a long term vision to create an entire site with history and all of the scoring logic coded in instead of in sheets.
+---
 
-I also have plans to build a website for Trigon Engineering Society to give the society an internet presence as well as to help streamline the recruitment process.
+## Currently Building
 
-<!--
-**toddbalwinski/toddbalwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of the projects I’m actively working on:
 
-Here are some ideas to get you started:
+- **[Golf Pool Entry Form](https://github.com/toddbalwinski/GolfPoolEntryForm)**
+  A web form that manages entries into a custom golf pool. Built using Next.js, React, Supabase, adn Vercel.
+  I have plans to build out the reciept functionality and also collect phone numbers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What's Next
+
+These are some project ideas and areas I plan to explore soon:
+
+- **Engineering Society Recruitment Website**  
+  A website to host recruitment information and event attendance forms including a database to store candidate member information.
+
+- **Personal Portfolio Site**  
+  A lightweight React-based site to showcase projects, experiences, and skills—hosted for free and mobile-responsive.
+
+- **Backtesting a Trading Algorithm**  
+  A Python-based system to test quantitative trading strategies using historical financial data. Will explore tools like `pandas`, `yfinance`, and `backtrader`.
+
+---
+
+## Connect With Me
+
+- 📧 [@tbalwinski@gmail.com]
+- 💼 [LinkedIn Profile](linkedin.com/in/todd-balwinski)
+- 🌐 [Personal Website](toddbalwinski.vercel.app)
+
+---
