@@ -47,6 +47,8 @@ These are some project ideas and areas I plan to explore soon:
 - **Backtesting a Trading Algorithm**  
   A Python-based system to test quantitative trading strategies using historical financial data. Will explore tools like `pandas`, `yfinance`, and `backtrader`.
 
+I am also studying to get certifications including AWS Cloud Practitioner and Solutions Architecht.
+
 ---
 
 ## Connect With Me
