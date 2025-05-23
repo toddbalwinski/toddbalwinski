@@ -24,7 +24,7 @@ Here are some of the projects I’m actively working on:
 
 ## Completed Projects 
 
-Here are some of the projects I’m actively working on:
+Here are some projects I’ve completed:
 
 - **[Twitter to Bluesky Bot](https://github.com/toddbalwinski/TwitterToBlueskyBot )**
   A bot that reposts everthing a user posts on X (Twitter) onto Bluesky. Integrates X API v2, Bluesky's AT Protocol, and is deployed using GitHub Actions.
