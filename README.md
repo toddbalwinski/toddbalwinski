@@ -10,6 +10,9 @@ Please feel free to reach out if you would like to connect!
 
 Here are some of the projects I’m actively working on:
 
+- **[Needle&Note](https://github.com/toddbalwinski/needle-and-note)**
+  A site to log and review albums that you have listened to. Implements AWS Cloud storage and is built using Maven.
+
 - **[Golf Pool Entry Form](https://github.com/toddbalwinski/GolfPoolEntryForm)**
   A web form that manages entries into a custom golf pool. Built using Next.js, React, Supabase, and Vercel.
   While currently functional and deployed, I have plans to build out the reciept functionality and also collect phone numbers.
