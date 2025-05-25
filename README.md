@@ -1,6 +1,6 @@
 # Hi, I'm Todd Balwinski
 
-I am a rising third year engineering student at the University of Virginia where I major in Computer Science with minors in Business and Data Science. I enjoy improving processes and workflows using technology and build my own to implement when I can. To see more of my projects and experience check out my [website](https://toddbalwinski.vercel.app/#bio).
+I am a rising third year engineering student at the University of Virginia where I major in Computer Science with minors in Business and Data Science. I enjoy improving processes and workflows using technology and build my own to implement when I can. To see more of my projects and experience check out my [website](https://toddbalwinski.vercel.app/).
 
 Please feel free to reach out if you would like to connect!
 
