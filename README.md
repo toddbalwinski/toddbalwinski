@@ -17,8 +17,8 @@ Here are some of the projects I’m actively working on:
   A web form that manages entries into a custom golf pool. Built using Next.js, React, Supabase, and Vercel.
   While currently functional and deployed, I have plans to build out the reciept functionality and also collect phone numbers.
 
-- **[Personal Site](https://github.com/toddbalwinski/PersonalWebsite)**
-  A lightweight site to showcase projects, experiences, and skills. Built using React and Vercel.
+- **[Personal Site](https://github.com/toddbalwinski/personal-website)**
+  A lightweight site to showcase projects and experiences. Built using Next.js and hosted using Vercel.
 
 ---
 
