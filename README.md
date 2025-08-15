@@ -13,9 +13,8 @@ Here are some of the projects I’m actively working on:
 - **[Needle&Note](https://github.com/toddbalwinski/needle-and-note)**
   A site to log and review albums that you have listened to. Implements AWS Cloud storage and is built using Maven.
 
-- **[Golf Pool Entry Form](https://github.com/toddbalwinski/GolfPoolEntryForm)**
-  A web form that manages entries into a custom golf pool. Built using Next.js, React, Supabase, and Vercel.
-  While currently functional and deployed, I have plans to build out the reciept functionality and also collect phone numbers.
+- **[Fantasy Golf Pool](https://github.com/toddbalwinski/golf-pool)**
+  A combination of my live scoring sheet and entry form to host all related information on one site.
 
 - **[Personal Site](https://github.com/toddbalwinski/personal-website)**
   A lightweight site to showcase projects and experiences. Built using Next.js and hosted using Vercel.
@@ -25,6 +24,9 @@ Here are some of the projects I’m actively working on:
 ## Completed Projects 
 
 Here are some projects I’ve completed:
+
+- **[Golf Pool Entry Form](https://github.com/toddbalwinski/GolfPoolEntryForm)**
+  A web form that manages entries into a custom golf pool. Built using Next.js, React, Supabase, and Vercel.
 
 - **[Twitter to Bluesky Bot](https://github.com/toddbalwinski/TwitterToBlueskyBot )**
   A bot that reposts everthing a user posts on X (Twitter) onto Bluesky. Integrates X API v2, Bluesky's AT Protocol, and is deployed using GitHub Actions.
